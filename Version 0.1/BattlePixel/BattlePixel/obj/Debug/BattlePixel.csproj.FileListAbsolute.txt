@@ -1,0 +1,14 @@
+C:\Users\black\source\repos\BattlePixel\BattlePixel\bin\Debug\BattlePixel.exe.config
+C:\Users\black\source\repos\BattlePixel\BattlePixel\bin\Debug\BattlePixel.exe
+C:\Users\black\source\repos\BattlePixel\BattlePixel\bin\Debug\BattlePixel.pdb
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\MainWindow.baml
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\MainWindow.g.cs
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\App.g.cs
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel_MarkupCompile.cache
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.g.resources
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.Properties.Resources.resources
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.csproj.GenerateResource.cache
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.exe
+C:\Users\black\source\repos\BattlePixel\BattlePixel\obj\Debug\BattlePixel.pdb

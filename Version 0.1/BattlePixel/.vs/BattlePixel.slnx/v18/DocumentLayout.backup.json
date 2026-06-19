@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\black\\source\\repos\\BattlePixel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|c:\\users\\black\\source\\repos\\battlepixel\\battlepixel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\decorationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\decorationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\skilltreemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\skilltreemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|C:\\Users\\black\\source\\repos\\BattlePixel\\battlepixel\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A8198-2874-4BF8-A254-2C91DD2F6DFD}|BattlePixel\\BattlePixel.csproj|solutionrelative:battlepixel\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BattlePixel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\MainWindow.xaml*",
+              "RelativeToolTip": "BattlePixel\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-19T11:08:20.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BattlePixel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAMwEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T11:08:18.477Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\Player.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\Player.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\Player.cs",
+              "RelativeToolTip": "BattlePixel\\Player.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:39:53.506Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\Enemy.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\Enemy.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\Enemy.cs",
+              "RelativeToolTip": "BattlePixel\\Enemy.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:03:37.659Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecorationManager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\DecorationManager.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\DecorationManager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\DecorationManager.cs",
+              "RelativeToolTip": "BattlePixel\\DecorationManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:25:04.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TileManager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\TileManager.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\TileManager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\TileManager.cs",
+              "RelativeToolTip": "BattlePixel\\TileManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T11:17:23.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\Map.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\Map.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\Map.cs",
+              "RelativeToolTip": "BattlePixel\\Map.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T11:18:05.634Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\InventoryManager.cs",
+              "RelativeToolTip": "BattlePixel\\InventoryManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:30:59.59Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkillTreeManager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\SkillTreeManager.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\SkillTreeManager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\SkillTreeManager.cs",
+              "RelativeToolTip": "BattlePixel\\SkillTreeManager.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwFgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:45:04.656Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\HealthBar.cs",
+              "RelativeDocumentMoniker": "BattlePixel\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BattlePixel\\BattlePixel\\HealthBar.cs",
+              "RelativeToolTip": "BattlePixel\\HealthBar.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:11:50.436Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
